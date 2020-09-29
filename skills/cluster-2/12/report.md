@@ -34,5 +34,5 @@ https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/periph
 -----
 
 <div align="center">
-<p>Stopwatch Video</p>
+<p>Voltage Monitor Video</p>
 <a href="https://www.youtube.com/embed/sjQ8QmgpxPE"><img src="https://img.youtube.com/vi/sjQ8QmgpxPE/0.jpg" alt="IMAGE ALT TEXT"></a>
