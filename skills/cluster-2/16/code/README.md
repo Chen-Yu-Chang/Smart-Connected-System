@@ -1,8 +1,19 @@
-# Code Readme
+# Node js codes
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+All these codes in the code folder is the basic implementation of node js with java script. According to the steps in the tutorial, I learned the basic implementation of node js.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Author: Chen-Yu Chang
+
+Source:
+
+Tutorial of Node Js:
+
+https://www.w3schools.com/nodejs/nodejs_modules.asp
+
+Node Serial Port:
+
+https://github.com/serialport/node-serialport
+
+https://serialport.io/docs/api-serialport
+
+https://www.ctolib.com/node-serialport.html
