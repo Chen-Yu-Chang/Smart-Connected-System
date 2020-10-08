@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BU-EC444/Kirk-David.git"
+    "url": "git+https://github.com/BU-EC444/Chang-Chen-Yu.git"
   },
-  "author": "David Kirk",
+  "author": "Chen-Yu Chang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BU-EC444/Kirk-David/issues"
+    "url": "https://github.com/BU-EC444/Chang-Chen-Yu/issues"
   },
-  "homepage": "https://github.com/BU-EC444/Kirk-David#readme"
+  "homepage": "https://github.com/BU-EC444/Chang-Chen-Yu#readme"
 }
