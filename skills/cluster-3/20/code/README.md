@@ -1,8 +1,11 @@
-# Code Readme
+# hello_world.js
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+In the code folder, there is hello_world.js to un the code in RPI, and it output the "Hello World!" to the my personal web page "hrsun.ddns.net:1130".
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Name: Chen-Yu Chang
+
+Source:
+
+Node js Tutorial:
+
+https://www.w3schools.com/nodejs/default.asp
