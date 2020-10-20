@@ -13,6 +13,7 @@ Date: 2020-10-19
 
 ## Sketches and Photos
 ![](images/2.jpeg)
+![](images/5.png)
 
 ## Modules, Tools, Source Used Including Attribution
 ADXL343 Accelerometer, ESP32, Terminal, C Language, Atom
