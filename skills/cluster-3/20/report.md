@@ -11,9 +11,9 @@ Date: 2020-10-20
 3. Finally, I installed node.js on my RPI and run the "hello_world.js" on this RPI, and I successfully log onto my personal domain with the listening port specified in "hello_world.js". Images below can show you the successful ddns and port forwarding setup and correct domain output.
 
 ## Sketches and Photos
-![](images/ddns_setup.jpeg)
+![](images/ddns_setup.png)
 ![](images/port_forward_setup.png)
-![](images/website.png)
+![](images/website.jpg)
 
 ## Modules, Tools, Source Used Including Attribution
 Terminal, Raspberri Pi Zero W, No ip, Local Network, ssh, ddclient
