@@ -1,8 +1,11 @@
-# Code Readme
+# database.js
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+In the code folder, there is database.js to run the smoke.txt that is required to run on raspberry pi.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Name: Chen-Yu Chang
+
+Source:
+
+Node js & MongoDB:
+
+https://www.w3schools.com/nodejs/nodejs_mongodb.asp
