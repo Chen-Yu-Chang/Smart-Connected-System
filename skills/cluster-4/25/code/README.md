@@ -1,8 +1,11 @@
-# Code Readme
+# uart_async_rxtxtasks.c
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+In the code folder, there is the main uart_async_rxtxtasks.c to make the whole program work. The whole folder contains the directory that I run on my local computer.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Name: Chen-Yu Chang
+
+Source:
+
+IR Example Code:
+
+https://github.com/espressif/esp-idf/blob/master/examples/peripherals/uart/uart_echo/main/uart_echo_example_main.c
