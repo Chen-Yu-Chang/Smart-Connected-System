@@ -34,4 +34,4 @@ http://whizzer.bu.edu/briefs/design-patterns/dp-irtxrx
 -----
 <div align="center">
 <p>IR TX/RX Video</p>
-<a href="https://www.youtube.com/embed/heYzjHwEpos"><img src="https://img.youtube.com/vi/heYzjHwEpos/0.jpg" alt="IMAGE ALT TEXT"></a>
+<a href="https://www.youtube.com/embed/yC-UwPbZLTQ"><img src="https://img.youtube.com/vi/yC-UwPbZLTQ/0.jpg" alt="IMAGE ALT TEXT"></a>
