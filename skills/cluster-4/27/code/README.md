@@ -1,8 +1,5 @@
-# Code Readme
+# whack_a_mole.cpp
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+In this code folder, there is the main whack_a_mole.cpp to demonstrate how the whack-a-mole game operate and how my c code match its state machine.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Name: Chen-Yu Chang
