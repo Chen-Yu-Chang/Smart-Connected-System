@@ -1,8 +1,9 @@
-# Code Readme
+# leader_election.c
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+In the code folder, there is the main leader_election.c to make the whole program work. The whole folder contains the directory that I run on my local computer.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Name: Chen-Yu Chang
+
+Source:
+
+Code from IR TX/RX
