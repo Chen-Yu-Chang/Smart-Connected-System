@@ -1,8 +1,11 @@
-# Code Readme
+# mcpwm.c
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+In the code folder, there is the main mcpwm.c to make the whole program work. The whole folder contains the directory that I run on my local computer.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Name: Chen-Yu Chang
+
+Source:
+
+MCPWM brushed dc motor control Example:
+
+https://github.com/espressif/esp-idf/tree/11b444b8f493165eb4d93f44111669ee46be0327/examples/peripherals/mcpwm/mcpwm_brushed_dc_control
