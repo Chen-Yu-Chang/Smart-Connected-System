@@ -33,3 +33,7 @@ H-Bridges:
 http://www.modularcircuits.com/blog/articles/h-bridge-secrets/h-bridges-the-basics/
 
 -----
+
+<div align="center">
+<p>Motor Demo</p>
+<a href="https://www.youtube.com/embed/6in-71SHeZY"><img src="https://img.youtube.com/vi/6in-71SHeZY/0.jpg" alt="IMAGE ALT TEXT"></a>
