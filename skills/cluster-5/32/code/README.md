@@ -1,8 +1,19 @@
-# Code Readme
+# wheel.c
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+In the code folder, there is the main wheel.c to make the whole program work. The whole folder contains the directory that I run on my local computer.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Name: Chen-Yu Chang
+
+Source:
+
+Wheel and Car Speed Sensor:
+
+http://whizzer.bu.edu/skills/wheel-speed-tt
+
+Pulse Counter:
+
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/pcnt.html
+
+Timer:
+
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/timer.html
