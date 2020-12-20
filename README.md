@@ -1,3 +1,5 @@
-# LastName-FirstName
+# Smart & Connected System
 
-Hello, I am Chen-Yu Chang. I keep my repositories organized and well documented. In general, each skill exists in a cluster subfolder.
+Author: Chen-Yu Chang
+
+These skills are what I learn from EC444 in Boston University. Overall, I learned how to connect microcontrollers, sensors, C codes, html, and node.js, which interacts each other remotely (smart control).
